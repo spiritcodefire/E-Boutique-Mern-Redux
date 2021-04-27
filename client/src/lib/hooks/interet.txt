@@ -1,0 +1,3 @@
+ici on utilisera des Hooks, 
+ca séparera et isolera de la logique dedans, pour laisser au composant juste le soins de présenter notre composant, 
+et séparer la logique dans un autr endroit.

@@ -1,0 +1,2 @@
+tout ce qui est gestionnaire d'état sera géré de manière centralisé et séparé avec Redux
+Redux c'est une combinaison très classique  pour gérer l'état de notre application

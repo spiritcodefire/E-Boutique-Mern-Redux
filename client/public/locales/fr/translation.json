@@ -1,0 +1,234 @@
+{
+
+
+    "SlideNew": {
+        "1": "Découvrez nos expositions virtuelles"
+    },
+    "MultiCarousel": {
+        "1": "Les plus belles oeuvres"
+    },
+    "CardRond": {
+        "1": "Notre coup de coeur du moment"
+    },
+    "MultiAgenda": {
+        "1": "Expositions à venir"
+    },
+    "Citation": {
+        "1": "Rencontre avec Cécile Gervais",
+        "2": "Ma maladie, c'est mon amie, Je l'ai adoptée. Atteinte d'une sclérose en plaques à l'âge de 33 ans, j'ai fait de cette pathologie une force. Je suis pleine de vie et de fantaisie, mon atelier s'avère un lieu d'accueil, d'échange verbal, pictural et d'optimisme."
+    },
+    "OffreTarifHome": {
+        "Title": "Découvrir notre fonctionnement",
+        "Gauche": {
+            "title": "ANNUAIRE D'ARTISTE", 
+            "argu1": "",
+            "argu2": "",
+            "argu3": ""
+        },
+        "Milieu": {
+            "title": "VIDEO ET INTERVIEW", 
+            "argu1": "",
+            "argu2": "",
+            "argu3": "",
+            "argu4": ""
+        },
+        "Droite": {
+            "title": "GALERIE VIRTUELLE", 
+            "argu1": "",
+            "argu2": "",
+            "argu3": ""
+        }
+    },
+    "NavBar": {
+        "Artistes": "Artistes",
+        "Galerie": "Galerie",
+        "Agenda": "Agenda expos",
+        "GalerieVirtuelle": "Galerie Virtuelle",
+        "Shop": "Shop",
+        "NousRejoindre": "Nous rejoindre",
+        "Partenaires": "Partenaires",
+        "Videos": "Videos"
+    },
+    "NavMonth":{
+        "All": "Tous",
+        "September": "Septembre",
+        "October": "Octobre",
+        "November": "Novembre",
+        "December": "Decembre",
+        "January": "janvier",
+        "February": "Fevrier",
+        "March": "Mars",
+        "April": "Avril"
+    },
+    "General": {
+        "spe" : "Artiste peintre"
+    },"LinksPageArtist": {
+        "fb" : "Lien facebook :",
+        "insta" : "Lien Instagram :",
+        "SitePerso": "Site de l'artiste :"
+    },
+     "NavIdentification": {
+        "ServiceClient" : "Service Clients",
+        "Sinscire" : "S'inscire",
+        "SeConnecter" : "Se connecter"
+    },
+    "Footer": {
+        "1_3Gauche" : {
+            "Title" : "ENVIE D'EXPOSER?",
+            "PrenezContact" : "Prenez contact avec nos équipes ."
+        },
+        "Milieu" : {
+            "Title" : "PRESSE",
+            "CorpsTexte1" : "Vous voulez parler de notre concept?",
+            "CorpsTexte2" : "Contactez-nous"
+        },
+        "1_3Droite" : {
+            "Title" : "RECRUTEMENT",
+            "CorpsTexte1" : "Vous voulez intégrer notre équipe ?",
+            "CorpsTexte2" : "L'art vous passionne ? "
+        }
+    },
+    "Artistes" : {
+        "General" : "L'artiste en quelques Oeuvres" ,
+        "Reseaux" : "Retrouvez notre artiste sur les réseaux sociaux" ,
+        "BeghiGabriel" : {
+            "Tableaux" : {
+                "1G" : "The Coral Project",
+                "1M" : "The Coral Project",
+                "1D" : "The Coral Project"
+            },
+            "txt" : "Gabriel Beghi est diplômé en Architecture d'intérieur et de Design à Paris (LISAA) ainsi que de l'Académie Nationale d'Art et de Design de New York. Il a notamment travaillé pour des créateurs de renom à Brooklyn durant 4 ans et a souhaité revenir à ses racines dans la région Bordelaise en 2018 pour créer son propre atelier. Il a hérité de sa grand-mère peintre, graveur et sculpteur, originaire du Médoc, de ce don et de cette passion pour les matériaux tels que la terre, le bois, le métal et le béton Gabriel sculpte la terre, imprime le bois et façonne intégralement à la main ses pièces uniques. Il puise son inspiration dans la Nature, notamment dans le monde sous-marin. Il utilise son savoir-faire pour jouer avec la lumière et la végétation. Pour Gabriel l'idée de multifonctionnalité est essentielle. L'utilisateur doit pouvoir rêver, se projeter et s'approprier le dispositif selon sa sensibilité, ses goûts et les saisons. Il doit pouvoir être en harmonie avec le monde naturel qui l'entoure. Pour se faire, ses sculptures en terre cuite  s'adaptent aussi bien en intérieur qu'en extérieur. Son Premier #RoomOnFireProject a rencontré un grand succès. Exposé et vendu en France, à New York ou encore Hong Kong, ce dispositif lumineux symbolise une flamme. En tant que lampe, elle sculpte les espaces en projetant des ombres mais il est aussi possible d'y intégrer une plante ou un diffuseur d'arôme. Le #TheCoralProject vient droit du monde sous-marin. Né d'une erreur technique de conception du #RoomOnFireProject, ce dispositif peut recevoir une ampoule, un cache-pot, des fleurs ou un diffuseur d'arôme. Son ouverture vers le ciel lui permet d'offrir plus de fonctionnalités."
+        },
+        "LallemandChantal":{
+            "Tableaux" : {
+                "1G" : "Galerie Mauve - Deep-Purple 116 x 89",
+                "1M" : "Galerie Rouge",
+                "1D" : "Galerie Noir"
+            },
+            "txt" : "C’est sur des grandes toiles en lin que Chantal LALLEMAND Artiste Peintre et Plasticienne, exprime ses émotions en créant des œuvres abstraites et pleines de couleurs. Pour Chantal pas de pinceau, aucun outil de peintre : elle utilise ses doigts, ses ongles et ses mains, afin selon l’Artiste, de mieux sentir la peinture acrylique et l’ensemble des matières insolites et étonnantes qu’elle utilise pour créer. Elle nous explique qu’en peignant avec sa main et ses ongles, elle entre en relation étroite avec la toile en utilisant une technique proche du massage. La peinture devient alors un onguent qu’elle applique en la faisant plus ou moins pénétrer dans le lin de sa toile…. Au contact de la peinture Chantal entre dans un état de méditation, les mouvements de ses mains sont guidés par le rythme de la musique des Pink Floyd qui accompagne toujours son processus de création. Mais le travail artistique de Chantal LALLEMAND ne s’arrête pas là… Influencée par sa maman qui était couturière costumière et dont elle a hérité la créativité et l’amour de l’esthétisme en général, l’Artiste brode certaines de ses toiles avec des perles en verre et en cristal et des poudres pailletées colorées, associées à d’autres matières assez inattendues dont elle a le secret, en suivant le mouvement de la peinture. Cette technique permet à la peinture de conserver l’ensemble de ses perles de façon pérennes. Le résultat est magique. Minutieusement et longuement, Chantal coud, très souvent une à une, les perles sur ses œuvres. Une toile peut lui prendre parfois cinq mois pour être terminée. La plus importante est composée de plus de 20 000 perles. De plus, pour Chantal, la couleur est très importante puisque selon elle, celle-ci apporte du bonheur ainsi que de la lumière à tous spectateurs et permet à l’Artiste d’exprimer ses émotions ainsi que ses états d’âmes :  « En général, les humains éprouvent un grand bonheur à voir la couleur. L’œil a besoin d’elle, comme il a besoin de la lumière » J W Goethe, traité des couleurs, 1810. En 2020, Les œuvres de Chantal LALLEMAND seront exposées à Giverny à la galerie Demarez, à l’exposition d’art Expo Métro station Opéra, à New York au Salon Art Expo,  à la galerie Roz et Winkler à Barbizon, au Carrousel du Louvre au salon Art Shopping , à Monaco, au salon Art3F et à Miami au salon Spectrum. Les dates et les adresses sont disponibles sur le site de l’artiste"
+        },
+        "GaraponSophie":{
+            "Tableaux" : {
+                "1G" : "La nature reprend sa place, huile sur toile 83 x 130cm 2019",
+                "1M" : "La lune, le taureau, l'eau - Huile sur toile 115 x 83cm 2020",
+                "1D" : "Et de rêver... Huile sur toile 60 x 90cm 2018"
+            },
+            "txt" : "Mélange de réel et de l'imagination, la féérie et le songe l'inspirent. Ses toiles sont réalisées avec des techniques mixtes et sur tous formats, même de très grands : peintures à l’huile sur toiles et bois, peintures acrylique et encre de chine. Dans les peintures de Sophie GARAPON, on trouve un mélange harmonieux de teintes pastelles mêlées à des couleurs sombres. Ses tableaux sont un mélange d’abstrait inspirés par la nature, et de personnages de la mythologie grecque. Notamment dans sa série LES HAMADRYADES, nymphes issues de la mythologie, Sophie semble vouloir décrire une allégorie, mêlant force de la représentation de l’arbre, du chêne en particulier, et la fragilité de la nymphe, faisant ressortir sa propre force et sa fragilité en tant qu’artiste peintre. Sophie GARAPON s’exprime à travers sa peinture. Elle souhaite faire partager un peu de spiritualité à toute personne qui prendra le temps de découvrir et de regarder ses œuvres. Les artistes Le Caravage et Odile Redon, une peintre Bordelaise, influencent sa peinture. Sophie élabore ses peintures au fil du temps, de ses idées et ce, tout au long d’un dialogue avec la toile."
+        },
+        "DebrivaAntoine":{
+            "Tableaux" : {
+                "1G" : "",
+                "1M" : "",
+                "1D" : "Coronaspace"
+            },
+            "txt" : "Antoine DEBRIVA n’est pas (seulement) Artiste Peintre. C’est aussi à notre sens un Artiste Plasticien à part entière. Définition qu’il reçoit avec beaucoup d’humilité. En effet, pour aller plus loin dans sa créativité, Antoine DEBRIVA a imaginé des petites figurines colorées, qu’il peint individuellement sur des noyaux de mirabelles. Ainsi sont nées Les Milles Bouilles.® Tantôt graves, tantôt humoristiques, Les Milles Bouilles sont intégrées une à une sur les œuvres picturales de Antoine DEBRIVA, pour un résultat des plus original. Chacune des Mille Bouilles y trouve sa place et sa légitimité. Toujours attachantes et décoratives, les peintures de l’Artiste font sourire, réfléchir, intriguent, mais ne laissent pas indifférent le spectateur que nous sommes. A travers ses œuvres, Antoine DEBRIVA exprime ses émotions et donne sa vision de la société. D’exposition en exposition, l’intérêt du public pour les œuvres de Antoine DEBRIVA est grandissant, confirmé lors de sa participation au Salon des Indépendants à Art Capital 2020 au grand Palais à Paris cette année. Le public est également source d’inspiration. Antoine DEBRIVA, à la demande, a réalisé des créations personnalisées. Afin d’évoluer et acquérir les techniques auprès de peintres reconnus, l’Artiste travaille sans relâche depuis cinq ans. Antoine DEBRIVA constitue un des maillons de réseaux d’artistes créatifs qui partagent leurs expériences et leur passion commune au sein d’associations. Il œuvre activement à la diffusion des arts dans sa région, le Béarn. Plus récemment, le covid19 fut l’occasion de nouvelles créations telles que 'corona-space' ou mémoires vives."
+        },
+        "HeitzDominique":{
+            "Tableaux" : {
+                "1G" : "",
+                "1M" : "",
+                "1D" : ""
+            },
+            "txt" : "Dominique HEITZ, alias DOHE est une artiste complète, son inspiration vient de la rue, des graffitis, des murs colorés. Elle est une passionnée des colonnes Moris et des panneaux d'affichages qui sont pour sa sensibilité comme des tranches de vie superposées. C'est avec la peinture Mais aujourd'hui son inspriration est que DOHE s’exprime le mieux, qu'elle ressent le plus de plaisir. L’acrylique est son matériau de prédilection, à qui elle donne de la profondeur avec quelques touches d’huile, et ajoute souvent de la matière, du sable, de la colle, des affiches. Ses supports sont variés également : toile de jute, feutrine. La base de construction des œuvres de DOHE, son sujet fétiche est le nounours qui rappelle l’enfance, la douceur, dans ce monde difficile. surtout guidée par le street art, DOHE affectionne le côté graphique des écritures, des affiches. De style contemporain, tendance street art, son art est coloré, même si le bleu, couleur propice à l’évasion, y domine. La confrontation de la dureté et de la douceur surprend, cela interpelle et c’est ce qu’aime l’artiste : l’interpréta- tion des gens, leur ressenti, différents d’une personne à une autre. Découvrez par vous-même, le monde fabuleux de DOHE et vous serez conquis !s"
+        },
+        "DangelantPierre":{
+            "Tableaux" : {
+                "1G" : "",
+                "1M" : "",
+                "1D" : "L'équilibre, Technique huile sur châssis toile et sculpture béton acrylique"
+            },
+            "txt" : "Décorateur et créateur de stands sur salons professionnels, Pierre DANGLEANT est aussi un Artiste Peintre reconnu pour ses paysages marins aux mélanges de couleurs, à la fois douces et sombres, dont lui seul a le secret. Formé aux Arts Appliqués à l’Académie Charpentier, l’Artiste exécute des œuvres picturales à la peinture à l’huile qu’il superpose au pinceau ou au couteau, sur des toiles de grands formats. Avec la simplicité toute relative du graphisme tantôt abstrait, tantôt figuratif et de sa démarche artistique, Pierre DANGLEANT explore les effets de la lumière et de la transparence. Pour Pierre, la peinture est avant tout un véritable vecteur de sens à sa vie. Cet art exige une permanente réflexion, de même qu’une remise en question créative fréquente de l’Artiste. C’est ainsi que dernièrement Pierre DANGLEANT a souhaité allier la peinture à la sculpture, son autre médium de prédilection, en créant selon nous un concept original, qui permet à l’Artiste de s’exprimer en toute liberté. A la manière de Giacometti, Pierre DANGLEANT réalise des sculptures en argile, aux silhouettes filiformes montées sur                           support, qu’il reproduit sur de grandes toiles, donnant au spectateur une double interprétation de ses créations, chacune d’entre elle, ne pouvant être dissociée. Les œuvres de Pierre DANGLEANT font l’objet de nombreuses expositions en France et à l’Etranger. "
+        },
+        "HenriotEmma":{
+            "Tableaux" : {
+                "1G" : "",
+                "1M" : "",
+                "1D" : ""
+            },
+            "txt" : "Emma Henriot s’est mise à la peinture, il y a une quinzaine d'années, pour exprimer ses émotions. Enfant déjà, elle était passionnée de dessin. Le rêve et le mystère la caractérisant, elle prit des cours de peinture à Lyon et depuis, Emma peint la vie avec la couleur de ses sentiments, c’est-à-dire en multicolore ! Souvent, elle se réveille dans la nuit, pour coucher ses idées sur la toile ou sur un support, quel qu’il soit ; parfois, il s’agit de plusieurs esquisses à la fois. Emma est capable de laisser en sommeil son œuvre et d’y revenir, quand le moment s’y prête, quand l’inspiration se présente par la suite, par à coup. L’artiste a une profonde attache pour le Portugal. C'est dans la ville d'Anadia qu’elle a vu le jour, en 1960. Elle y a vécu sa tendre enfance, avant de venir vivre en périphérie de Lyon. Quelques années plus tard, tombée en admiration pour le pays viennois et plus précisément pour les Côtes-d'Arey (Isère), elle y habite depuis. Les paysages qui l'entourent, les couleurs changeantes du ciel sont sources d'inspiration et se retrouvent au gré de ses toiles et de ses poèmes, car oui, Emma écrit aussi. C’est une artiste complète.« Les branches en poésie – Comment ignorer ces belles branches ? Elles représentent un mélange de Force, l’Amitié, Solidarité, Liberté. Pour l’Amour de la Vie tout en poésie. » Emma aime aussi côtoyer les enfants. A plusieurs reprises, que ce soit en France ou au Portugal, ils ont été à l'origine de plusieurs de ses créations et ça se voit ! Regardez ces très beaux arbres aux multiples couleurs vives ! Ils ont quelque chose d’enfantin ! Le côté ludique qu’ils inspirent, les couleurs, l’imaginaire qu’ils représentent, tout cet univers féerique nous emmène tout droit dans un jardin d’enfant, un parc d’attractions, un conte, une fable, celle d’« Emma, au pays des merveilles » !"
+        },
+        "ReneDaniel":{
+            "Tableaux" : {
+                "1G" : "",
+                "1M" : "",
+                "1D" : ""
+            },
+            "txt" : ""
+        },
+        "GrooverDan":{
+            "Tableaux" : {
+                "1G" : "",
+                "1M" : "",
+                "1D" : ""
+            },
+            "txt" : ""
+        },
+        "FrancescoRuspoli":{
+            "Tableaux" : {
+                "1G" : "",
+                "1M" : "",
+                "1D" : ""
+            },
+            "txt" : "Née en 1985 à Paris d’une mère Anglaise d’origine Française et d’un père Belge d’origine Italienne Francesco Ruspoli débute sa carrière d’artiste par une exposition collective au musée du Bastion St André D’Antibes. Après s’être essayé à différents métiers, il a pris conscience qu’il n’était pas épanouit. L’artiste décida de poursuivre son rêve d’enfance : L’art ! Dotées d’un sens profond, ses œuvres ne retiennent que ce qui est essentiel à ses yeux. Ainsi sur l’un de ses sujets « Cultures et race dans les sociétés contemporaines des grandes métropoles », l’ensemble de ses personnages possède des couleurs différentes dans le but d’exprimer la diversité des origines culturelles dans les grandes villes contemporaines du monde."
+        },
+        "GervaisCecile":{
+            "Tableaux" : {
+                "1G" : "",
+                "1M" : "",
+                "1D" : ""
+            },
+            "txt" : "Malgré la sclérose en plaque dont elle atteinte depuis qu’elle a 33 ans, Cécile GERVAIS, Artiste peintre vous transporte dans un tourbillon d’optimisme et de sincérité. Elle est sans filtre tant dans sa peinture que dans son discours. Rien ne l’arrête. C’est dans la maladie, devenue son amie, par la force des choses, qu’elle puise la force de peindre et d’aider les autres aussi. Son atelier situé à Voiron (Isère) est un lieu d’accueil, un lieu de rendez-vous où elle aime échanger, apprendre et partager son savoir-faire. Rien n’est impossible pour Cécile. Elle est pleine de positivité, voit la vie d’une autre dimension, aimant se mettre au service de l’autre. Elle se sert de sa peinture comme Art Thérapie, pour elle est pour les autres. Elle aime jouer avec les couleurs qui lui permettent de s’exprimer, par leur rendu et leur symbolisme. L’Artiste se définit comme un outsider de la couleur. Ses maîtres sont PICASSO, DALI, KANDINSKY, mais aussi Frida KHALO, pour leur manière d’exprimer la couleur. Cécile utilise des techniques mixtes l’acrylique, la craie grasse, les crayons ainsi que l’encre."
+        }
+    },
+    "GalerieVirtuelle" : {
+        "HeaderTypical1" : "Venez vivre une experience de Visite 3D unique_",
+        "HeaderTypical2" : "Visitez virtuellements nos plus belles galleries_"
+    },
+    "Form" : {
+        "ContactUs" : "Contactez Nous",
+        "FirstName" : "Prenom", 
+        "LastName" : "Nom de famille",
+        "Email" : "Email", 
+        "text" : "Spécifier votre demande",
+        "Send" : "Envoyer"
+    },
+    "OffreTarif": {
+        "Title": "Découvrir notre fonctionnement",
+        "Gauche": {
+            "title": "ANNUAIRE D'ARTISTES", 
+            "argu1": "- Une page pour vous dans notre annuaire d artistes pour faire connaitre votre travail , gagner en visibilité et augmenter votre potentiel de vente .",
+            "argu2": "- 55€ H.T. par mois minimum de souscription 6 mois",
+            "argu3": "- 550€ H.T. l année.  10 mois payés, 2 mois offerts"
+        },
+        "Milieu": {
+            "title": "VIDEO ET INTERVIEW", 
+            "argu1": "- Une rencontre humaine avec chaque artiste",
+            "argu2": "- Captation  Montage Diffusion",
+            "argu3": "- Portrait video instantane  750€ H.T. environ 1mn30",
+            "argu4": "- Portrait video studio  1 550€ H.T."
+        },
+        "Droite": {
+            "title": "GALERIE VIRTUELLE", 
+            "argu1": "- 1 860€ H.T. l'année",
+            "argu2": "- 2 années d’abonnement souscrits, la 3ème année offerte",
+            "argu3": ""
+        }
+    },    
+        "CardVideo": {
+            "Interview" : "Interview",
+            "Videos" : "Videos",
+            "SiteDeLartiste" : "Site de l'artiste",
+            "MiseEnLigneLe" : "Mise en Ligne le",
+            "MailDeLartiste" : "Mail de l'artiste"
+        }, 
+   "Cookies" : {
+        "titre" : "POLITIQUE DE PROTECTION DES DONNÉES",
+        "text" : "1) Définition du terme « données à caractère personnel ». Le terme « données à caractère personnel » désigne toutes les données qui permettent d’identifier un utilisateur : nom, prénom, numéro de téléphone, date de naissance, adresse de courrier électronique, adresse postale, adresse IP, ainsi que tout autre renseignement que vous choisirez de communiquer lors de la création de votre compte et de vos commandes sur le site ArtandGalleries.fr. Toutes ces données sont collectées de façon limitée à ce qui est nécessaire au traitement de votre compte ou de vos commandes, ou des finalités définies au paragraphe 3 ci-après. \n\n2) Société gérant les données\nLa société SEAJ, Société par Actions Simplifiée, immatriculée au RCS de Pontoise sous le n° 890.553.837, dont le siège social est situé au 25 avenue du 8 Mai – 95200 SARCELLES, assure la responsabilité de la collecte de ces données pour le site ArtandGalleries.fr. \n\n3) Objectifs et finalités de la collecte des données\nVos données à caractère personnel sont collectées uniquement à des fins déterminées, explicites et légitimes, pour répondre à une ou plusieurs des finalités suivantes :\nGérer les commandes effectuées sur le site ArtandGalleries.fr ;\nElaborer des statistiques commerciales, effectuer des études de marché et de comportements,\nConstituer et gérer des fichiers de prospects, ce qui inclut notamment les opérations techniques comme la normalisation, l’enrichissement et la duplication,\nEffectuer des opérations relatives à la gestion des clients,\nSélectionner une clientèle pour réaliser des actions de prospection et de promotion,\nAdresser des sollicitations et des messages promotionnels de la part de SEAJ. Vous pouvez vous désinscrire à tout instant de ces offres en cliquant sur le lien prévu à cet effet situé en bas des email concernés.\nRespecter nos obligations légales et réglementaires.\nLutter contre la fraude dans les conditions définies ci-infra.\n\n4) Sécurité\nSEAJ prend toutes les précautions nécessaires pour assurer la sécurité de vos données à caractère personnel et notamment, empêcher qu’elles soient déformées, endommagées ou que des tiers non autorisés y aient accès. Le cryptage et l’anonymisation sont deux des moyens utilisés.\n\n5) Durée de conservation des données à caractère personnel\nLes données collectées sont conservées à partir de la dernière transaction effectuée sur le Site, ou de la dernière mise à jour de votre compte. A défaut d’activité de votre compte durant un délai de 5 ans, les données personnelles seront effacées automatiquement. Certaines de vos données bancaires seront conservées pendant une durée de treize mois à des fins de lutte contre la fraude, à compter de la dernière transaction que vous avez effectuée sur le Site ou de la dernière mise à jour de votre compte client. Lorsque vous cochez la case 'Mémoriser', vos données bancaires pourront être réutilisées pour vos futures commandes.SEAJ est susceptible de conserver pour une durée limitée des informations relatives aux transactions effectuées sur son Site, afin de lutter contre la fraude.\n\n6) Destinataires des données collectées\nSeule notre société et les entreprises extérieures liées contractuellement à nous pour le traitement de votre commande ont accès aux informations que vous nous communiquez. Les catégories de personnes qui auront accès à vos données personnelles au sein de SEAJ sont, dans la limite de leurs attributions respectives, le service commercial, les services administratifs, le service technique et les services chargés du contrôle (commissaire aux comptes, services chargés des procédures internes de contrôle, etc …). Peuvent également être destinataires de vos données à caractère personnel les organismes publics, exclusivement pour répondre aux obligations légales, les auxiliaires de justice, les officiers ministériels et les organismes chargés d’effectuer le recouvrement de créances.\n\n7) Cookies\nAfin de faciliter votre navigation sur nos pages, nous utilisons la technique des « cookies ». Les cookies enregistrent des informations relatives à la navigation de votre ordinateur sur notre site (pages consultées, date et heure, etc.) que nous pourrons lire lors de vos visites ultérieures.Nous mesurons le nombre de pages vues, le nombre de visites, ainsi que l’activité des visiteurs sur le Site et leur fréquence de retour. Un cookie ne nous permet pas de vous identifier. Les données collectées par les cookies sont uniquement et strictement destinées à un usage interne et ne sont jamais transmises à des tiers. \n\n8) Consentement\nL'utilisation de cookies, propres ou tiers, n'étant pas nécessaire au fonctionnement du site, nécessite un consentement exprès de votre part. Vous pouvez accepter ou refuser l'utilisation de cookies en paramétrant votre navigateur de manière appropriée. Reportez-vous pour cela aux guides d'utilisation de votre navigateur.Certains cookies appelés \"cookie de publicité\" nous permettent de suivre votre navigation et enregistrer les produits vus, puis dans un délai maximum de 90 jours de vous présenter des bannières publicitaires en rapport, ou non, avec votre navigation passée. Ces cookies sont liés à votre profil internet (mais ne permettent pas de vous identifier). Ils nécessitent également votre consentement exprès de la même façon qu'indiquée ci-dessus. Si vous ne désirez pas ou plus recevoir ces \"cookies de publicité\", cliquer sur le lien ci-après:\n\nDésactiver les cookies de publicité sur mon profil. \nEn cliquant sur Continuer au moment de la création de votre compte, il est expressément écrit qu’«en vous inscrivant, vous bénéficiez de tous nos bons plans en exclusivité et acceptez notre politique de protection des données ». Lorsque vous choisissez de communiquer vos données à caractère personnel sur le Site en cliquant sur Continuer, vous donnez expressément votre consentement pour la collecte et l’utilisation de vos données personnelles conformément à ce qui est énoncé à la présente Charte et à la législation en vigueur.\n\n9) Droit d’accès et de rectification\nConformément au règlement UE 2016/679, vous bénéficiez de plusieurs droits, à savoir :\n- un droit d'accès\n- un droit de rectification\n- un droit à l'effacement\n- un droit à la limitation du traitement\n- un droit à la portabilité\n- un droit d'opposition\nPour faire valoir vos droits d’accès, de rectification, à l’effacement, vous pouvez aller sur votre compte client et le faire directement.\nPour faire valoir vos droits à la limitation du traitement, à la portabilité, d'opposition, vous pouvez vous adresser :\n- par courrier électronique : à webmaster@artandgalleries.com\n- par courrier postal : SEAJ, 25 avenue du 8 Mai – 95200 SARCELLES.\nVous pouvez, si nécessaire, introduire une réclamation auprès d’une autorité de contrôle.\n\n10) Lutte contre la fraude\nPour lutter contre les fraudes, SEAJ a mis en place un dispositif mettant en œuvre des listes d’exclusion, qui peut l’amener à :Vous réclamer, afin de sécuriser la transaction, certaines pièces justificatives une fois le paiement effectué, en cas d’alerte automatique déclenchée par les informations relatives à votre commande ;Bloquer votre commande si votre compte client a déjà été utilisé pour commettre une fraude ; \nFournir vos données personnelles sur demandes d’autorités judiciaires en cas de dépôt de plainte ou réquisition judiciaire.» désigne toutes les données qui permettent d’identifier un utilisateur : nom, prénom, numéro de téléphone, date de naissance, adresse de courrier électronique, adresse postale, adresse IP, ainsi que tout autre renseignement que vous choisirez de communiquer lors de la création de votre compte et de vos commandes sur le site ArtandGalleries.fr. Toutes ces données sont collectées de façon limitée à ce qui est nécessaire au traitement de votre compte ou de vos commandes, ou des finalités définies au paragraphe  3. "
+    },
+    "DannieLaunay" : {
+        "txt" : "Autodidacte, j'ai longtemps hésité entre le métier de photographe et celui de peintre et j'ai compris que l'un et l'autre étaient parfaitement compatibles étant donné que bien souvent, mes clichés me servent d'inspiration pour mes tableaux figuratifs. \n Pour les peintures, j'utilise de l'encre de chine pour les fonds et de l'acrylique pour le sujet. Pour les tableaux modernes je peints à l'acrylique et au couteau. \n Les collages abstraits sont traités avec un fonds de base en peinture essuyée et poncée par endroits. Ensuite je colle toutes sortes de matériaux comme du papier de soie noir plissé et froissé, du carton varié, des papiers anciens etc..... le tout partiellement repeint. \n En ce qui concerne mes collages figuratifs, ce sont des fonds peints et ensuite des extraits de magazines, catalogues de voyages, extraits de mes photos, revues d'art, le tout est ensuite légèrement abîmé pour donner à l'ensemble une touche d'ancienneté.\n Les mesures des tableaux et collages vont du : 30/40 pour les plus petits jusqu'au 80/60 70/70. 1m/1m et nettement plus pour les diptyques et triptyques et enfin des mesures intermédiaires non classiques." }
+
+    
+}
+
+

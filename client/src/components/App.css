@@ -1,0 +1,26 @@
+/* #8d010e   */
+
+@import "~react-image-gallery/styles/css/image-gallery.css";
+
+.btn-bordeau {
+    color: #fff;
+    background-color: #8d010e;
+    border-color: #8d010e;
+}
+
+.btn-outline-bordeau {
+    color: #8d010e;
+    border-color: #8d010e;
+}
+
+.btn-outline-bordeau:hover {
+    color: #fff;
+    background-color: #8d010e;
+    border-color: #8d010e;
+}
+
+.btn-bordeau:hover {
+    color: #8d010e;
+    background-color: #fff;
+    border-color: #8d010e;
+}
